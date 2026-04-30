@@ -1,0 +1,5 @@
+{
+  "components": ["button", "input", "label"],
+  "layout": {"direction": "vertical"},
+  "styles": {"color": "blue"}
+}
